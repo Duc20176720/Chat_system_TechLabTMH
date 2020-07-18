@@ -1,0 +1,16 @@
+th {
+    color: green
+}
+
+a.nut_log_out {
+    display: block;
+    border: 1px solid black;
+    width: 89px;
+    height: 30px;
+    text-align: center;
+    text-decoration: none;
+    background: whitesmoke;
+    padding-top: 10px;
+    border-radius: 5px;
+    margin: 5px;
+}
